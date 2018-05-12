@@ -18,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
 description: "Saint Ronan's Well is a novel by Sir Walter Scott. It is the only novel\
   \ he wrote with a 19th-century setting.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20749#St.-Ronan-s-Well
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2007-03-06'
 gutenberg_type: Text
